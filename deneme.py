@@ -14,3 +14,4 @@ frame_altsağ.place(relx=0.34 , rely=0.21 , relheight=0.56 , relwidth=0.5)
 
 
 master.mainloop()
+print("olsun")
