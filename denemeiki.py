@@ -20,3 +20,5 @@ master.mainloop()
 
 print("hello world")
 mevdnskpvs
+
+vsc de yazmamız lazım
